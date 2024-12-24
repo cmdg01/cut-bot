@@ -4,15 +4,10 @@ from datetime import datetime
 import json
 import plotly.express as px
 import pandas as pd
-from dotenv import load_dotenv
-import os
 import anthropic
 
-# Load environment variables
-load_dotenv()
-
-# Initialize Anthropic client with API key
-client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
+# Initialize Anthropic client with API key from Streamlit secrets
+client = Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
 
 # Page configuration
 st.set_page_config(
