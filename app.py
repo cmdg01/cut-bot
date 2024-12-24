@@ -1,13 +1,16 @@
 import streamlit as st
-from anthropic import Anthropic
-from datetime import datetime
+from anthropic import Anthropic, HUMAN_PROMPT, AI_PROMPT
 import json
 import plotly.express as px
 import pandas as pd
-import anthropic
+from datetime import datetime
 
 # Initialize Anthropic client with API key from Streamlit secrets
-client = Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
+if 'ANTHROPIC_API_KEY' not in st.secrets:
+    st.error('ANTHROPIC_API_KEY not found in secrets.')
+    st.stop()
+    
+client = Anthropic(api_key=st.secrets.ANTHROPIC_API_KEY)
 
 # Page configuration
 st.set_page_config(
