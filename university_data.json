@@ -1,0 +1,160 @@
+{
+    "general_info": {
+        "name": "Chinhoyi University of Technology (CUT)",
+        "established": "2001",
+        "location": "Chinhoyi, Zimbabwe",
+        "motto": "Technology, Innovation, and Wealth Creation",
+        "description": "Chinhoyi University of Technology is a state university located in Chinhoyi, Zimbabwe. It specializes in technical education, agricultural sciences, engineering, and business studies."
+    },
+
+    "contact_info": {
+        "physical_address": "Private Bag 7724, Chinhoyi, Zimbabwe",
+        "phone": "+263 67 22203/4",
+        "email": "info@cut.ac.zw",
+        "website": "www.cut.ac.zw",
+        "social_media": {
+            "facebook": "CUTZimbabwe",
+            "twitter": "@CUTZimbabwe",
+            "linkedin": "chinhoyi-university-of-technology"
+        }
+    },
+
+    "schools_and_faculties": {
+        "School of Agricultural Sciences and Technology": [
+            "Agricultural Engineering",
+            "Crop Science and Technology",
+            "Animal Science and Technology"
+        ],
+        "School of Engineering": [
+            "Mechanical Engineering",
+            "Electronic Engineering",
+            "Software Engineering",
+            "Chemical Engineering"
+        ],
+        "School of Business": [
+            "Business Management",
+            "Accounting and Finance",
+            "Marketing Management",
+            "Supply Chain Management"
+        ],
+        "School of Natural Sciences and Mathematics": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Information Technology",
+            "Data Analytics"
+        ]
+    },
+
+    "admissions": {
+        "undergraduate_requirements": {
+            "minimum_points": "10 points at A-Level",
+            "english_requirement": "O-Level English with grade C or better",
+            "mathematics_requirement": "O-Level Mathematics with grade C or better",
+            "application_deadline": "Usually end of July for August/September intake"
+        },
+        "postgraduate_requirements": {
+            "minimum_qualification": "Related undergraduate degree with at least a 2.2",
+            "work_experience": "2 years work experience preferred for MBA programs",
+            "application_process": "Submit academic transcripts, CV, and research proposal"
+        },
+        "international_students": {
+            "additional_requirements": [
+                "TOEFL or IELTS scores for non-English speaking countries",
+                "Evaluated foreign credentials",
+                "Study permit/visa requirements"
+            ]
+        }
+    },
+
+    "facilities": {
+        "academic": [
+            "Modern lecture theaters",
+            "Computer laboratories",
+            "Engineering workshops",
+            "Agricultural research farm",
+            "Library and information center"
+        ],
+        "accommodation": [
+            "On-campus student hostels",
+            "Staff housing",
+            "Student dining facilities"
+        ],
+        "recreational": [
+            "Sports fields",
+            "Gymnasium",
+            "Student center",
+            "Swimming pool"
+        ]
+    },
+
+    "student_life": {
+        "clubs": [
+            "Engineering Society",
+            "Entrepreneurship Club",
+            "Sports Teams",
+            "Drama Club",
+            "Debate Society"
+        ],
+        "services": [
+            "Career guidance",
+            "Health services",
+            "Counseling services",
+            "Internet facilities"
+        ]
+    },
+
+    "fees_and_funding": {
+        "undergraduate_fees": {
+            "local_students": "USD 1,000 - 1,500 per semester",
+            "international_students": "USD 2,000 - 2,500 per semester"
+        },
+        "postgraduate_fees": {
+            "local_students": "USD 1,500 - 2,000 per semester",
+            "international_students": "USD 2,500 - 3,000 per semester"
+        },
+        "scholarships": [
+            "Presidential Scholarship",
+            "Academic Excellence Award",
+            "Sports Scholarship",
+            "Research Grants"
+        ]
+    },
+
+    "research": {
+        "focus_areas": [
+            "Agricultural Innovation",
+            "Renewable Energy",
+            "Information Technology",
+            "Industrial Engineering",
+            "Business Development"
+        ],
+        "research_centers": [
+            "Center for Agricultural Mechanization",
+            "Renewable Energy Research Lab",
+            "Business Innovation Hub",
+            "Software Development Center"
+        ]
+    },
+
+    "partnerships": {
+        "academic_partners": [
+            "University of Zimbabwe",
+            "Midlands State University",
+            "African University of Technology"
+        ],
+        "industry_partners": [
+            "Zimbabwe Industrial Development Corporation",
+            "Agricultural Research Council",
+            "Technology Innovation Agency"
+        ]
+    },
+
+    "faq": {
+        "application_process": "Applications can be submitted online through our portal or in person at the admissions office. Required documents include academic transcripts, ID copy, and application fee receipt.",
+        "accommodation": "On-campus accommodation is available on a first-come-first-served basis. Early application is recommended.",
+        "internships": "All undergraduate programs include a mandatory industrial attachment in the third year.",
+        "careers": "The Career Services Office assists students with job placements, internships, and career guidance.",
+        "library_services": "The library is open 24/7 during semester time with online resources accessible remotely.",
+        "student_support": "We offer various support services including academic advisors, counseling, and health services."
+    }
+}
