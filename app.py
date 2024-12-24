@@ -255,7 +255,7 @@ def load_conversation_prompts():
 def get_claude_response(prompt):
     """Get response from Claude API with improved error handling"""
     try:
-        message = anthropic.messages.create(
+        message = client.messages.create(
             model="claude-3-sonnet-20240229",
             max_tokens=1024,
             temperature=0.7,
